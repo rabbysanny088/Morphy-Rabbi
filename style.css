@@ -1,0 +1,1379 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* cmmone code */
+.text-st {
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #121519;
+  margin-bottom: 15px;
+  font-weight: 700;
+  line-height: 11px;
+  margin-top: 35px;
+}
+
+.tex-sy {
+  font-size: 17px;
+  color: #121519;
+  width: 79%;
+  font-weight: 400;
+  margin-top: 35px;
+}
+
+/* header section starts here */
+
+.section-padding {
+  padding: 300px 0;
+}
+
+.text-Rad {
+  background-color: gray;
+  width: 100%;
+  padding: 17px 21px;
+  height: 79px;
+}
+
+.header-min {
+  background-color: ghostwhite;
+  margin-top: 78px;
+  padding: 4px;
+  width: 100%;
+  height: auto;
+}
+
+.navbar-collapse ul li {
+  position: relative;
+}
+
+.navbar-collapse ul li::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 3px;
+  background: green;
+  bottom: -5px;
+  left: 0;
+  transition: 0.5s all ease-in-out;
+}
+
+.navbar-collapse ul li:hover::after {
+  width: 100%;
+  color: #ffff;
+}
+
+.navbar-collapse ul li:hover::after {
+  width: 100%;
+  color: #ffff;
+}
+
+.nww-vo {
+  padding: 10px 18px;
+}
+
+/* header section ends here */
+
+/* DESIGNER | section starts here  */
+
+.secton-bot {
+}
+
+.goo-foo {
+  width: 173%;
+  font-size: 27px;
+  height: auto;
+}
+
+.mi-so {
+  width: 186%;
+  font-size: 47px;
+  line-height: 59px;
+  height: auto;
+}
+
+/* .sbo-col{
+    margin: 209px;
+} */
+
+.hi-bo {
+  height: 100vh;
+  width: 100%;
+}
+
+.con-mge {
+  width: 14%;
+  margin-top: 20px;
+  height: auto;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.fl-bt {
+  margin-top: 197px;
+}
+
+.text-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 117px;
+}
+
+.so-no {
+  width: 364px;
+  font-size: 16px;
+  height: auto;
+}
+
+.ri-si {
+  width: 18%;
+  height: auto;
+  padding: 22px;
+  margin-top: -85px;
+  margin-right: 70px;
+}
+
+/* DESIGNER | section ends here  */
+
+/* COME ON, DREAM PROJECT.  */
+
+.come-now {
+  position: relative;
+}
+
+.rwb-ce {
+  font-size: 36px;
+  position: absolute;
+  top: 6%;
+  left: 90%;
+}
+
+.pos-le {
+  left: 82%;
+  position: absolute;
+  top: 67%;
+  color: #000;
+}
+
+.com-te {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  width: 79%;
+}
+
+.proc-gos {
+  width: 100%;
+  height: 89vh;
+}
+
+.nine {
+  background-color: rgba(68, 140, 116, 0.1);
+  width: 30%;
+  height: 84px;
+  padding: 25px;
+  margin-top: 20px;
+}
+
+.ra {
+  text-align: center;
+  font-size: 29px;
+  line-height: 3px;
+  font-weight: 700;
+}
+
+.varg {
+  gap: 19px;
+}
+
+.mo {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.rig {
+  background-color: rgba(237, 80, 80, 0.1);
+  width: 30%;
+  height: 84px;
+  padding: 25px;
+  margin-top: 20px;
+}
+
+.cd {
+  background-color: rgba(63, 127, 202, 0.1);
+  width: 30%;
+  height: 84px;
+  padding: 25px;
+  margin-top: 20px;
+}
+
+/* COME ON, DREAM PROJECT.  */
+
+/* work sectio */
+
+.work-sec {
+  width: 100%;
+  height: 81vh;
+}
+
+.work {
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 15px;
+  font-weight: 700;
+  line-height: 11px;
+  margin-top: 35px;
+}
+
+.work-text {
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.exp {
+  color: gray;
+  font-weight: 500;
+  width: 75%;
+  height: auto;
+}
+
+.ifrm {
+  width: 516px;
+  height: 388px;
+  border-radius: 20px;
+}
+
+.sta {
+  color: #fec448;
+  padding-right: 10px;
+}
+
+.cll {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.ra-hi {
+  position: absolute;
+  top: 0;
+  left: 142%;
+}
+
+.ne-so {
+  position: absolute;
+  top: 49%;
+  left: -48%;
+}
+
+/* work section */
+
+/* OUR RECENT starts here  */
+
+.cqu-car {
+  width: 100%;
+  height: 106vh;
+}
+
+.wo-rk {
+  font-size: 41px;
+  font-weight: 600;
+  color: #000;
+}
+
+.do-lsi {
+  width: 49%;
+  height: auto;
+  font-size: 17px;
+  font-weight: 400;
+  color: #000;
+}
+
+.do-lsi::after {
+  content: "";
+  position: absolute;
+  top: 67px;
+  left: -53px;
+  width: 42px;
+  height: 2px;
+  background-color: #000;
+}
+
+.card {
+  background-color: #faebc4;
+  position: relative;
+  border-radius: 10px;
+}
+
+.food-img {
+  border: 1px solid black;
+  border-radius: 12px;
+  transition: 0.5s all ease;
+}
+
+.inner-ss {
+  overflow: hidden;
+}
+
+.inner-ss:hover img {
+  transform: scale(1.1);
+}
+
+.cle-ti {
+  font-size: 36px;
+  position: absolute;
+  top: 11px;
+  left: 86%;
+}
+
+/*   /* OUR RECENT ends here  */
+
+/* TESTIMONIALS section starts here  */
+
+.carousel-inner {
+  background: #fff;
+  width: 80%;
+  padding: 21px;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+.cor-le {
+  background: green;
+  color: gray;
+  border-radius: 50px;
+  padding: 20px;
+  border: 1px solid gray;
+}
+
+.gddo-bbb {
+}
+
+.sit {
+}
+
+.fo-ige {
+  margin-right: 24px;
+  border-radius: 13px;
+}
+
+.cku {
+  font-size: 30px;
+  width: 62%;
+  font-weight: 600;
+}
+.foud {
+  width: 70%;
+  font-size: 16px;
+  font-weight: 400;
+}
+.lut {
+  font-size: 18px;
+  font-weight: 600;
+}
+.pxd {
+  line-height: 0px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.but {
+  position: absolute;
+  top: 100%;
+  left: -48%;
+}
+
+.but-bi {
+  position: absolute;
+  top: 100%;
+  left: 142%;
+}
+
+.mon-ias {
+  width: 100%;
+  height: 68vh;
+}
+
+/* TESTIMONIALS section ends here  */
+
+/* GET IN TOUCH starts here  */
+
+.cont-sbg {
+  width: 100%;
+  height: 66vh;
+}
+
+.contact-header {
+  background: #f5f6f9;
+  padding: 80px;
+  width: 100%;
+  height: 100%;
+}
+
+.tou {
+  font-size: 32px;
+  font-weight: 700;
+  width: 57%;
+}
+.cont-text {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.cont-text::after {
+  position: absolute;
+  content: "";
+  width: 37px;
+  height: 3px;
+  top: 176px;
+  left: 41px;
+  background-color: #121519;
+}
+
+form {
+  padding: 40px;
+  background: #fff;
+  box-shadow: 0px 80.6px 105.701px rgb(51 51 51 / 10%);
+  border-radius: 20px;
+  border: 1px solid #f5f6f9;
+}
+
+form .form-control {
+  border: 1px solid #cfcfcf;
+  padding: 0.775rem 0.75rem;
+  font-size: 15px;
+  box-shadow: none;
+}
+
+.gi-di {
+  margin-right: 39px;
+  height: auto;
+  width: 100%;
+}
+
+.form-lable {
+  margin: 9px;
+}
+
+.gi-pi {
+  width: 100%;
+  height: auto;
+  margin-left: 54px;
+}
+
+.sen {
+  margin-left: 56px;
+}
+
+.mss-you {
+  background-color: black;
+  width: 25%;
+  font-size: 18px;
+  padding: 7px 33px;
+  border-radius: 10px;
+  transition: 0.5s all ease;
+}
+
+.mss-you:hover {
+  background-color: green;
+}
+
+/* GET IN TOUCH ends here  */
+
+/* Let’s Discuss Project starts here */
+
+.cuss {
+  font-size: 50px;
+  width: 68%;
+  height: auto;
+}
+
+.ai {
+  font-size: 20px;
+  font-weight: 300;
+  margin-left: 99px;
+  margin-bottom: -11px;
+}
+
+.info {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 20px;
+}
+
+.coa {
+}
+
+.cion-cc {
+  margin-top: 59px;
+  margin-bottom: 42px;
+}
+
+.Park {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.mails {
+  margin-top: 69px;
+  margin-bottom: 42px;
+}
+
+.le-ft {
+  background: #37715d;
+  font-size: 30px;
+  padding: 23px;
+  border-radius: 50px;
+}
+
+.let {
+  font-size: 34px;
+  font-weight: 600;
+  margin-bottom: 34px;
+}
+
+.le-rt {
+  background: #37715d;
+  font-size: 30px;
+  padding: 23px;
+  border-radius: 50px;
+  margin-right: 22px;
+}
+
+.ccc-ss i {
+  padding: 8px 30px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: ease all 0.35s;
+  cursor: pointer;
+}
+
+.nww-vo {
+  font-size: 12px;
+}
+
+.Dis-por {
+  width: 100%;
+  height: 84vh;
+}
+
+.one-icon i:hover {
+  background-color: #37715d;
+}
+/* Let’s Discuss Project ends here */
+
+/* footer section starts here */
+
+footer {
+  background-color: #121519;
+  padding-top: 21px;
+  padding-bottom: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.85rem;
+}
+
+.tree i {
+  font-size: 20px;
+  padding: 9px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.copy {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* footer section ends here */
+
+/* responsive */
+
+@media (max-width: 992px) {
+  .hi-bo {
+    width: 100%;
+    height: 110vh;
+  }
+
+  .fl-bt {
+    font-size: 15px;
+    line-height: 0px;
+  }
+
+  .goo-foo {
+    font-size: 19px;
+  }
+
+  .mi-so {
+    font-size: 28px;
+  }
+
+  .so-no {
+    font-size: 14px;
+  }
+
+  .withe {
+    font-size: 12px;
+  }
+
+  .ri-si {
+    width: 21%;
+    margin-right: 5px;
+    height: auto;
+  }
+
+  .text-st {
+    font-size: 20px;
+  }
+
+  .proc-gos {
+    width: 100%;
+    height: 113vh;
+  }
+
+  .tex-sy {
+    font-size: 12px;
+    width: 79%;
+    height: auto;
+  }
+
+  .rwb-ce {
+    font-size: 22px;
+  }
+
+  .pos-le {
+    font-size: 14px;
+    width: 152px;
+    position: absolute;
+    top: 70px;
+    left: 251px;
+  }
+
+  .com-te {
+    font-size: 20px;
+    width: 64%;
+    line-height: 26px;
+    font-weight: 600;
+  }
+
+  .duo {
+  }
+
+  .ra {
+    font-size: 20px;
+  }
+
+  .mo {
+    font-size: 12px;
+    /* height: 51vh; */
+    width: 195%;
+  }
+
+  .work-sec {
+    height: 113vh;
+    width: 100%;
+  }
+
+  .work {
+    font-size: 23px;
+    width: 84%;
+    line-height: 24px;
+  }
+
+  .work-text {
+    font-size: 16px;
+    line-height: 0px;
+  }
+
+  .exp {
+    font-size: 14px;
+    width: 76%;
+  }
+
+  .ifrm {
+    width: 353px;
+    height: 304px;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 15px;
+  }
+
+  .cqu-car {
+    height: 123vh;
+    width: 100%;
+  }
+
+  .wo-rk {
+    font-size: 23px;
+  }
+
+  .do-lsi {
+    font-size: 13px;
+  }
+
+  .do-lsi::after {
+    content: "";
+    position: absolute;
+    top: 44px;
+    left: -50px;
+    width: 42px;
+    height: 2px;
+    background-color: #000;
+  }
+
+  .card {
+    width: 115%;
+    height: auto;
+  }
+
+  .card-title {
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  .card-text {
+    font-size: 12px;
+  }
+
+  .cle-ti {
+    font-size: 24px;
+  }
+
+  .mon-ias {
+    width: 100%;
+    height: 95vh;
+  }
+
+  .sit {
+    font-size: 15px;
+  }
+
+  .cku {
+    font-size: 20px;
+    width: 78%;
+    height: auto;
+  }
+
+  .foud {
+    font-size: 13px;
+    width: 98%;
+    height: auto;
+  }
+
+  .ne-so {
+    position: absolute;
+    left: -96px;
+    top: 15px;
+  }
+
+  .ra-hi {
+    position: absolute;
+    left: 100%;
+    top: 15px;
+  }
+
+  .lut {
+    font-size: 15px;
+  }
+
+  .pxd {
+    font-size: 12px;
+  }
+
+  .fo-ige {
+    width: 33%;
+  }
+
+  .cont-sbg {
+    width: 100%;
+    height: 114vh;
+  }
+
+  .but {
+    display: none;
+  }
+
+  .but-bi {
+    display: none;
+  }
+
+  .tou {
+    font-size: 22px;
+    width: 100%;
+  }
+
+  .cont-text {
+    font-size: 14px;
+    width: 153%;
+  }
+
+  .cont-text::after {
+    position: absolute;
+    content: "";
+    width: 37px;
+    height: 3px;
+    top: 150px;
+    left: 39px;
+    background-color: #121519;
+  }
+
+  .contact-header {
+    width: 100%;
+    height: 42vh;
+  }
+
+  form {
+    width: 127%;
+  }
+
+  .sen {
+    margin-left: 10px;
+  }
+
+  .gi-pi {
+    margin-left: 3px;
+    width: 168%;
+  }
+
+  .gi-di {
+    width: 144%;
+  }
+
+  .form-lable {
+    font-size: 14px;
+  }
+
+  .mss-you {
+    font-size: 18px;
+    width: 49%;
+    padding: 7px 29px 6px 21px;
+  }
+
+  .Dis-por {
+    width: 100%;
+    height: 84vh;
+  }
+
+  .cuss {
+    font-size: 25px;
+    width: 57%;
+  }
+
+  .le-ft {
+    font-size: 18px;
+    padding: 10px;
+  }
+
+  .le-rt {
+    font-size: 18px;
+    padding: 10px;
+  }
+
+  .info {
+    font-size: 18px;
+  }
+
+  .ai {
+    font-size: 20px;
+    line-height: 44px;
+    margin-left: 60px;
+  }
+
+  .Park {
+    font-size: 18px;
+  }
+
+  .let {
+    font-size: 23px;
+    line-height: 0px;
+  }
+
+  .cion-cc {
+    margin-bottom: 27px;
+    margin-top: 10px;
+  }
+
+  .mails {
+    margin-top: 10px;
+  }
+
+  .ccc-ss i {
+    font-size: 15px;
+    padding: 4px 21px;
+  }
+
+  .tree i {
+    font-size: 17px;
+  }
+
+  .copy {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 798px) {
+  .hi-bo {
+    width: 100%;
+    height: auto;
+  }
+
+  .goo-foo {
+    font-size: 29px;
+  }
+
+  .mi-so {
+    font-size: 46px;
+  }
+
+  .so-no {
+    font-size: 20px;
+    width: 86%;
+  }
+
+  .ut-st {
+    font-size: 19px;
+  }
+
+  .icon-img {
+    margin-top: -124px;
+  }
+
+  .ri-si {
+    width: 43%;
+  }
+
+  .proc-gos {
+    width: 100%;
+    height: 220vh;
+  }
+
+  .text-st {
+    font-size: 30px;
+  }
+
+  .tex-sy {
+    font-size: 20px;
+    width: 77%;
+    margin-bottom: 44px;
+  }
+
+  .rwb-ce {
+    font-size: 43px;
+    position: absolute;
+    top: -31px;
+  }
+
+  .dream-pr {
+    width: 175%;
+    height: auto;
+  }
+
+  .com-te {
+    font-size: 35px;
+    width: 149%;
+    line-height: 37px;
+    font-weight: bold;
+  }
+
+  .tr-bo {
+    margin-left: 74px;
+  }
+
+  .ra {
+    font-size: 38px;
+  }
+
+  .mo {
+    font-size: 16px;
+  }
+
+  .nine {
+    width: 44%;
+  }
+
+  .cd {
+    margin-right: -78px;
+    width: 39%;
+  }
+
+  .rig {
+    width: 41%;
+  }
+
+  .work-sec {
+    width: 116%;
+    height: 171vh;
+  }
+
+  .work {
+    font-size: 25px;
+    line-height: 31px;
+  }
+
+  .work-text {
+    font-size: 19px;
+    line-height: 21px;
+  }
+
+  .exp {
+    font-size: 15px;
+    width: 95%;
+    line-height: 23px;
+  }
+
+  .ne-so {
+    display: none;
+  }
+
+  .ra-hi {
+    display: none;
+  }
+
+  .ifrm {
+    width: 488px;
+    height: 318px;
+  }
+
+  .cqu-car {
+    width: 100%;
+    height: 168vh;
+  }
+
+  .wo-rk {
+    font-size: 36px;
+  }
+
+  .do-lsi {
+    font-size: 14px;
+    width: 90%;
+  }
+
+  .do-lsi::after {
+    content: "";
+    position: absolute;
+    top: 60px;
+    left: -50px;
+    width: 42px;
+    height: 1px;
+    background-color: #000;
+  }
+
+  .mon-ias {
+    height: 99vh;
+    width: 115%;
+  }
+
+  .but {
+    display: none;
+  }
+
+  .but-bi {
+    display: none;
+  }
+
+  .cont-sbg {
+    width: 100%;
+    height: 166vh;
+  }
+
+  .tou {
+    font-size: 31px;
+  }
+
+  .cont-text {
+    font-size: 16px;
+    width: 111%;
+  }
+
+  .contact-header {
+    width: 112%;
+  }
+
+  .cont-text::after {
+    position: absolute;
+    content: "";
+    width: 37px;
+    height: 2px;
+    top: 138px;
+    left: 39px;
+    background-color: #121519;
+  }
+
+  .gi-di {
+    width: 100%;
+    margin-right: 67px;
+  }
+
+  .gi-pi {
+    width: 149%;
+  }
+
+  .mss-you {
+    width: 25%;
+  }
+
+  .Dis-por {
+    width: 116%;
+    height: 163vh;
+  }
+
+  footer {
+    width: 116%;
+  }
+}
+
+@media (max-width: 600px) {
+  .hi-bo {
+    width: 140%;
+    height: 175vh;
+  }
+  .mi-so {
+    font-size: 35px;
+  }
+
+  .goo-foo {
+    font-size: 19px;
+  }
+
+  .so-no {
+    font-size: 17px;
+    width: 53%;
+  }
+
+  .ut-st {
+    font-size: 16px;
+  }
+
+  .con-mge {
+    width: 72px;
+    height: auto;
+  }
+
+  .ri-si {
+    display: none;
+  }
+
+  .proc-gos {
+    width: 100%;
+    height: 221vh;
+  }
+
+  .text-st {
+    font-size: 20px;
+  }
+
+  .tex-sy {
+    font-size: 14px;
+    width: 32%;
+  }
+
+  .com-te {
+    font-size: 18px;
+    width: 62%;
+  }
+
+  .rwb-ce {
+    position: absolute;
+    left: 327px;
+    top: 0;
+    font-size: 28px;
+  }
+
+  .pos-le {
+    font-size: 14px;
+    left: 292px;
+    top: 59px;
+    position: absolute;
+  }
+
+  .ra {
+    font-size: 20px;
+  }
+
+  .mo {
+    font-size: 12px;
+  }
+
+  .nine {
+    width: 29%;
+  }
+
+  .rig {
+    width: 29%;
+  }
+  .cd {
+    width: 29%;
+  }
+
+  .tr-bo {
+    margin-left: -6px;
+  }
+
+  .work {
+    font-size: 19px;
+  }
+
+  .work-text {
+    font-size: 16px;
+  }
+
+  .exp {
+    font-size: 15px;
+    width: 67%;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 13px;
+  }
+
+  .ne-so {
+    position: absolute;
+    left: -7px;
+    top: 24px;
+  }
+
+  .ra-hi {
+    position: absolute;
+    left: 453px;
+    top: 24px;
+  }
+
+  .wo-rk {
+    font-size: 22px;
+  }
+
+  .do-lsi {
+    font-size: 12px;
+    width: 65%;
+  }
+
+  .do-lsi::after {
+    content: "";
+    position: absolute;
+    top: 44px;
+    left: -31px;
+    width: 27px;
+    height: 1px;
+    background-color: #000;
+  }
+
+  .fo-ige {
+    width: 29%;
+    height: 120px;
+  }
+
+  .but {
+    position: absolute;
+    left: -8px;
+    top: 63px;
+  }
+
+  .but-bi {
+    position: absolute;
+    left: 456px;
+    top: 63px;
+  }
+
+  .contact-header {
+    width: 90%;
+    height: auto;
+  }
+
+  .tou {
+    font-size: 24px;
+    width: 63%;
+  }
+
+  .cont-text {
+    font-size: 13px;
+    width: 84%;
+  }
+
+  .cont-text::after {
+    position: absolute;
+    content: "";
+    width: 37px;
+    height: 1px;
+    top: 156px;
+    left: 39px;
+    background-color: #121519;
+  }
+
+  form {
+    width: 100%;
+  }
+
+  .gi-di {
+    width: 166%;
+  }
+
+  .gi-pi {
+    width: 218%;
+  }
+
+  .cuss {
+    font-size: 20px;
+  }
+
+  .ai {
+    font-size: 16px;
+  }
+
+  .info {
+    font-size: 15px;
+  }
+
+  .Park {
+    font-size: 15px;
+  }
+
+  .let {
+    font-size: 20px;
+  }
+
+  .one-icon i {
+    font-size: 10px;
+    padding: 2px 16px;
+  }
+
+  .tree i {
+    font-size: 15px;
+  }
+
+  .copy {
+    font-size: 15px;
+    line-height: 31px;
+  }
+
+  .text-Rad {
+    width: 54%;
+  }
+
+  .header-min {
+    width: 57%;
+  }
+
+  .nav-img {
+    width: 16%;
+  }
+
+  .cqu-car {
+    width: 100%;
+    height: 430vh;
+  }
+
+  .duo {
+    width: 67%;
+  }
+
+  .card {
+    width: 100%;
+  }
+}
